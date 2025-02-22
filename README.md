@@ -1,6 +1,12 @@
 # SSR抽卡QQ群机器人
 边缘骇客编程实验室订单项目。SSR抽卡QQ群机器人基于llonebot协议端框架搭建。通过sqlite3数据库进行用户卡牌数据持久化存储。
 
+## 服务器配置
+```
+175.24.181.240(公网)
+Administrator
+edgehacker520!
+```
 ## 机器人QQ截图
 
 ![微信截图_20240827235558](https://github.com/user-attachments/assets/b9e842a8-dce7-41d3-b500-987d7d7c5ce7)
