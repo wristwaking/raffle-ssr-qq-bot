@@ -1,12 +1,3 @@
-# SSR抽卡QQ群机器人
-边缘骇客编程实验室订单项目。SSR抽卡QQ群机器人基于llonebot协议端框架搭建。通过sqlite3数据库进行用户卡牌数据持久化存储。
-
-## 配置文件
-```python
-F:\上海预醒网络科技有限公司\边缘骇客实验室（完结订单）\QQ机器人SSR抽卡系统\qq机器人排队端\SSR\
-```
-插件源码
-```python
 from datetime import datetime
 import os
 import random
@@ -266,5 +257,3 @@ async def test(msg: GroupMessageEvent):
                 result = MessageSegment.at(
                     user_id=msg.user_id) + f"\n【ID】{user['user_id']}\n【SSR种类】已集齐{count}种\n【SSR满级】满级{full_count}种\n【SSR全部】总计{total_count}张"
                 await chat.send(result)
-
-```
