@@ -1,5 +1,13 @@
-# SSR抽卡QQ群机器人
+![微信截图_20240827235558](https://github.com/user-attachments/assets/49ae6eec-91a2-4000-92d7-e4219f779579)# SSR抽卡QQ群机器人
 边缘骇客编程实验室订单项目。SSR抽卡QQ群机器人基于llonebot协议端框架搭建。通过sqlite3数据库进行用户卡牌数据持久化存储。
+
+## 机器人QQ截图
+
+![微信截图_20240827235558](https://github.com/user-attachments/assets/b9e842a8-dce7-41d3-b500-987d7d7c5ce7)
+
+## NTQQ架构协议端
+![image](https://github.com/user-attachments/assets/4b886ca2-32fa-4bf0-aee5-08a16723f8ad)
+
 
 ## 配置文件
 ```python
